@@ -13,7 +13,7 @@ Repository provide configuration example of Selenium with docker images
 4. Wait until all necessary images are downloaded  :)
 5. From command line execude command: **docker ps -a**  (see created containers) 
 6. Open VNC Viewer and add path to your container (VNC allow us to see what happen in our tests)
-![dockerimagesvncexample](https://user-images.githubusercontent.com/26840848/39098960-ef1b4d70-467a-11e8-9ab9-fbd77e3eba55.jpg)
+![dockerimagesvncexample](https://user-images.githubusercontent.com/26840848/45994522-a924ea00-c09c-11e8-8846-4e3dd47baeea.jpg)
 7. Don't forget to add some changes in your code see :
 ```java
        if (driver == null) {
